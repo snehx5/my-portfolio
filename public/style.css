@@ -22,7 +22,7 @@ main #right-side{
 
 #boxy{
   margin-top:20px;
-  background-color:dimgrey;
+  background-color:black;
   height:500px;
   width:90%;
   padding:5%;
@@ -114,6 +114,7 @@ footer{
   width:100%;
   height:500px;
   background-color:black;
+  background-url:('mirror.jpg');
 
 }
 
