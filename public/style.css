@@ -92,7 +92,7 @@ float:right;
   margin-left:5%;
   width:20%;
   height:75px;
-  background-color:red;
+  background-color:magenta;
 }
 
 #main-nav{
@@ -122,7 +122,7 @@ footer{
 }
 
 #my-project p{
-  text-align:center;
+
   width:100%;
 }
 
@@ -137,14 +137,14 @@ footer{
 }
 
 #ux-project-one h3{
-  margin:%;
+  margin:;
 }
 
 
 
 #my-project p{
   color:white;
-  text-align:center;
+
   margin:5%;
   margin-left:5%;
   display:inline-block;
