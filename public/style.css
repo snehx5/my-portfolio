@@ -3,9 +3,12 @@ body{
 }
 
 #page-header{
+  width:100%;
   height:75px;
   background-color:white;
-  box-shadow:2px 2px 5px 5px white;
+  /*box-shadow:1px 1px 1px 1px white;*/
+  position:fixed;
+  z-index:1;
 }
 
 main #left-side{
@@ -118,6 +121,15 @@ footer{
 
 }
 
+#my-project p{
+  text-align:center;
+  width:100%;
+}
+
+#main-content{
+  z-index:1;
+}
+
 #main-content div {
   display:inline-block;
   margin:0 auto;
@@ -146,6 +158,8 @@ section div{
   height:400px;
   background-color:blue;
 }
+
+
 
 
 
