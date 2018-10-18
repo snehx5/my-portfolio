@@ -5,7 +5,7 @@ body{
 #page-header{
   width:100%;
   height:75px;
-  background-color:white;
+  background-color:black;
   /*box-shadow:1px 1px 1px 1px white;*/
   position:fixed;
   z-index:1;
@@ -104,13 +104,14 @@ float:right;
   color:black;
   border:none;
   background-color:black;
+  opacity:2;
   height:620px;
   background:url('background-portfolio.jpg');
   background-size:cover;
 }
 
 #main-nav a{
-  color:black;
+  color:white;
   font-size:18px;
   margin-left:10%;
   text-decoration:none;
@@ -120,7 +121,7 @@ float:right;
   float:left;
   height:75px;
   width:200px;
-  background-color:magenta;
+  background-color:navy;
 }
 
 #logo h3{
@@ -134,7 +135,7 @@ float:right;
   margin-left:5%;
   width:20%;
   height:75px;
-  background-color:magenta;
+  background-color:navy;
 }
 
 #main-nav{
