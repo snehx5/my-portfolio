@@ -11,24 +11,63 @@ body{
   z-index:1;
 }
 
-main #left-side{
+#mirror-left-side{
   margin-top:20px;
   float:left;
-
-  width:45%;
+  width:30%;
 }
 
-main #right-side{
+#mirror-right-side{
   float:right;
-  width:50%;
+  width:60%;
 }
 
-#boxy{
+#panam-left-side{
   margin-top:20px;
+  float:left;
+  width:60%;
+
+}
+
+#panam-right-side{
+  float:right;
+  width:30%;
+}
+
+#panam-left-side p{
+
+}
+
+#spotify-right-side{
+  float:right;
+  width:25%;
+}
+
+#spotify-left-side{
+  margin-top:20px;
+  float:left;
+  width:65%;
+}
+
+#heem-right-side{
+  float:right;
+  width:65%;
+}
+
+#heem-left-side{
+  margin-top:20px;
+  float:left;
+  width:25%;
+
+}
+
+#iframe{
+  margin-top:20px;
+  border:solid white 1px;
   background-color:black;
   height:500px;
   width:90%;
-  padding:5%;
+  padding:0%;
 
 
 }
