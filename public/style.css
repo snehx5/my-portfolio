@@ -127,7 +127,7 @@ float:right;
   float:left;
   height:75px;
   width:200px;
-  background-color:navy;
+  background-color:black;
 }
 
 #logo h3{
@@ -141,7 +141,7 @@ float:right;
   margin-left:5%;
   width:20%;
   height:75px;
-  background-color:navy;
+  background-color:black;
 }
 
 #main-nav{
@@ -153,7 +153,7 @@ width:40%;
 }
 
 footer{
-  background-color:navy;
+  background-color:black;
   height:400px;
   width:100%;
 }
