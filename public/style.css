@@ -11,6 +11,10 @@ body{
   z-index:1;
 }
 
+*{
+  font-family:('Open Sans serif');
+}
+
 #mirror-left-side{
   margin-top:20px;
   float:left;
@@ -63,11 +67,12 @@ body{
 
 #iframe{
   margin-top:20px;
-  border:solid white 1px;
-  background-color:black;
+  border:solid white 2px;
+  background-color:;
   height:500px;
   width:90%;
   padding:0%;
+  /*border-radius:7px;*/
 
 
 }
@@ -76,7 +81,7 @@ main p{
   padding:5%;
   margin-top:-10%;
   color:black;
-  font-size:25px;
+  font-size:22px;
 }
 
 main h1{
@@ -87,7 +92,7 @@ main h1{
 main{
   height:600px;
   background-color:white;
-  border:solid black 0px;
+
   padding:10px;
   /*padding-left:15%;
   padding-right:15%;*/
@@ -102,13 +107,13 @@ float:right;
 */
 
 #main-content{
-  color:black;
+  color:yellow;
   border:none;
-  background-color:black;
-  opacity:2;
+  background-color:none;
   height:600px;
-  background:url('background-portfolio.jpg');
+  background:url('flower-background-2.jpg');
   background-size:cover;
+
 }
 
 #main-nav a{
