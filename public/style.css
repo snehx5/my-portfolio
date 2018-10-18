@@ -75,10 +75,12 @@ body{
 main p{
   padding:5%;
   margin-top:-10%;
+  color:black;
 }
 
 main h1{
   padding:5%;
+  color:black;
 }
 
 main{
@@ -99,10 +101,12 @@ float:right;
 */
 
 #main-content{
-
+  color:black;
   border:none;
   background-color:black;
   height:620px;
+  background:url('background-portfolio.jpg');
+  background-size:cover;
 }
 
 #main-nav a{
