@@ -145,7 +145,7 @@ float:right;
 
 #main-nav a:hover{
   font-size:24px;
-  color:teal;
+  color:#08457e;
   font-weight:bolder;
 }
 
@@ -155,7 +155,8 @@ float:right;
   height:90px;
   width:250px;
   margin:3%;
-  background-color:black;
+  background-color:#08457e;
+  border:solid black 3px;
   border-radius:1px;
 /*  opacity:.9;*/
 }
