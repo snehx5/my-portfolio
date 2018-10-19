@@ -81,7 +81,7 @@ main p{
   padding:5%;
   margin-top:-10%;
   color:black;
-  font-size:22px;
+  font-size:18px;
 }
 
 main h1{
@@ -89,8 +89,21 @@ main h1{
   color:black;
 }
 
-#header-content{
+
+
+
+#header-content-one{
   color:white;
+  font-size:30px;
+}
+
+#header-content-two{
+  color:white;
+  font-size:24px;
+}
+
+#hey{
+  font-size:36px;
 }
 
 main{
@@ -128,6 +141,10 @@ float:right;
   text-decoration:none;
 }
 
+#main-nav a:hover{
+  font-size:24px;
+}
+
 #logo{
   float:left;
   height:75px;
@@ -151,7 +168,7 @@ float:right;
 
 #main-nav{
 display:inline-block;
-margin-top:15px;
+margin-top:10px;
 margin-left:10%;
 width:40%;
 
