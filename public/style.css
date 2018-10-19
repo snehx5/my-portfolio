@@ -167,7 +167,8 @@ float:right;
   margin-left:5%;
   width:20%;
   height:75px;
-  background-color:teal;
+  background-color:#e4e4e4;
+  opacity:.9;
 }
 
 #main-nav{
@@ -179,7 +180,7 @@ width:40%;
 }
 
 footer{
-  background-color:black;
+  background-color:#e4e4e4;
   height:300px;
   width:100%;
 }
