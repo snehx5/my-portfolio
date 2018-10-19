@@ -89,6 +89,10 @@ main h1{
   color:black;
 }
 
+#header-content{
+  color:white;
+}
+
 main{
   height:600px;
   background-color:white;
@@ -111,7 +115,7 @@ float:right;
   border:none;
   background-color:none;
   height:600px;
-  background:url('flower-background-2.jpg');
+  background:url('background_headerblue.jpg');
   background-size:cover;
 
 
@@ -142,7 +146,7 @@ float:right;
   margin-left:5%;
   width:20%;
   height:75px;
-  background-color:white;
+  background-color:teal;
 }
 
 #main-nav{
