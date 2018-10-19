@@ -149,7 +149,7 @@ float:right;
   float:left;
   height:75px;
   width:200px;
-  background-color:black;
+  background-color:teal;
 }
 
 #logo h3{
@@ -250,6 +250,10 @@ section{
 section div{
   height:400px;
   background-color:blue;
+}
+
+.project{
+  text-decoration:none;
 }
 
 
