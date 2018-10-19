@@ -6,13 +6,13 @@ body{
   width:100%;
   height:75px;
   background-color:orangered;
-  /*box-shadow:1px 1px 1px 1px white;*/
+  box-shadow:1px 1px 12px 1px black;
   position:fixed;
   z-index:1;
 }
 
 *{
-  font-family:('Open Sans serif');
+  font-family: 'Open Sans', sans-serif;
 }
 
 #mirror-left-side{
@@ -114,6 +114,7 @@ float:right;
   background:url('flower-background-2.jpg');
   background-size:cover;
 
+
 }
 
 #main-nav a{
@@ -141,7 +142,7 @@ float:right;
   margin-left:5%;
   width:20%;
   height:75px;
-  background-color:black;
+  background-color:white;
 }
 
 #main-nav{
