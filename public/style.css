@@ -298,9 +298,48 @@ section div{
 }
 
 #container{
-  height:700px;
+  height:1200px;
 }
 
+form{
+  font-size:24px;
+  width:20%;
+  position:absolute;
+  margin:15%;
+  margin-left:25%;
+}
+
+form label{
+  padding:1px;
+  padding-top:25px;
+  font-family:'Opens Sans', sans-serif;
+}
+
+form input{
+  font-size:24px;
+  padding:5px;
+}
+
+form select{
+  font-size:24px;
+}
+
+form textarea{
+  font-size:24px;
+  width:400px;
+}
+
+form button{
+  font-size:24px;
+  margin-left:65%;
+  border-radius:3px;
+  box-shadow:0px 0px 3px 0px black;
+  border:none;
+}
+
+form div{
+  padding:4%;
+}
 
 
 
