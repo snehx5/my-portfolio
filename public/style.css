@@ -120,7 +120,7 @@ main{
   height:600px;
   background-color:white;
 
-  padding-top:100px;
+  padding-top:00px;
   /*padding-left:15%;
   padding-right:15%;*/
 }
@@ -136,9 +136,9 @@ float:right;
 #main-content{
   color:yellow;
   border:none;
-  background-color:none;
-  height:600px;
-  background:url('background_headerblue.jpg');
+  background-color:black;
+  height:700px;
+ /* background:url('background_headerblue.jpg');*/
   background-size:cover;
 
 
