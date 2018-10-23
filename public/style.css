@@ -164,6 +164,7 @@ float:right;
   width:250px;
   margin:3%;
   background-color:#08457e;
+ /* background-image: linear-gradient(to right top, #08457e, #416796, #6c8aaf, #98afc7, #c7d4e0);*/
   border:solid black 3px;
   border-radius:1px;
 /*  opacity:.9;*/
@@ -280,10 +281,25 @@ section div{
 }
 
 #mirror-project-with-case{
-  background-image:url('');
+  background-image:url('mirror.jpg');
+  border:none;
 }
 
+#panam-project-with-case{
+  background-image:url('panam.jpg');
+}
 
+#spotify-project-with-case{
+  background-image:url('spotify.jpg');
+}
+
+#heem-project-with-case{
+  background-image:url('heem.jpg');
+}
+
+#container{
+  height:700px;
+}
 
 
 
