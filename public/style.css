@@ -6,7 +6,7 @@ body{
   width:100%;
   height:75px;
   background-color:white;
- /* background-color:#00df71;*/
+  background-color:#00df71;
   box-shadow:1px 1px 12px 1px black;
   position:fixed;
   z-index:1;
@@ -134,13 +134,21 @@ float:right;
 */
 
 #main-content{
+  z-index:1;
   color:yellow;
   border:none;
   background-color:black;
   height:700px;
- /* background:url('background_headerblue.jpg');*/
-  background-size:cover;
+  background:url('background_headerblue.jpg');
+/*  background-size:cover;*/
 
+
+
+}
+
+#main-content #sample-video{
+  background-size:cover;
+  position:absolute;
 
 }
 
