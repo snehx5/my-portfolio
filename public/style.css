@@ -6,7 +6,6 @@ body{
   width:100%;
   height:75px;
   background-color:white;
-  background-color:#f2f2f2;
   box-shadow:1px 1px 12px 1px black;
   position:fixed;
   z-index:1;
@@ -134,13 +133,12 @@ float:right;
 */
 
 #main-content{
-  z-index:1;
   color:yellow;
   border:none;
   background-color:black;
   height:700px;
-  background:url('background_headerblue.jpg');
-/*  background-size:cover;*/
+  background:url('portfolio_header.jpg');
+  background-size:cover;
 
 
 
@@ -347,6 +345,10 @@ form button{
 
 form div{
   padding:4%;
+}
+
+video{
+  width:100%;
 }
 
 
